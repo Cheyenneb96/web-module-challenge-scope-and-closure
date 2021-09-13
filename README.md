@@ -59,6 +59,9 @@ You will be running your tests in one terminal and debugging in the other. As yo
 Edit the `ReadMe` file with your answers to the questions below.
 
 1. In your own words, define closure (1-2 sentences).
+
+Every time a funstion is created so is a closure. closures give you access to outer fumstions scopes. It is code that can be identified else where to use later. 
+
 2. Study the following code, then answer the questions below.
 
 ```js
